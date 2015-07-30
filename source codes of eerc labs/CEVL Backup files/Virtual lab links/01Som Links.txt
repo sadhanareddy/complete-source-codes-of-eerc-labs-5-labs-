@@ -1,0 +1,19 @@
+SoM-01 Tension test/Tension test.html
+
+SoM-02 Compression test/Compression_Test.html
+
+SoM-03 Shear test/Deflection_3.html
+
+SoM-04 Torsion test/Torsion test.html
+
+SoM-05 Impact test/Impact_test.html
+
+SoM-06 Creep test/Creep_Test.html
+
+SoM-07 Fatigue test/Fatigue_Test.html
+
+SoM-08 Compression test on spring/Compression test on spring.html
+
+SoM-09 Principal stresses/Principal_stresses.html
+
+SoM-10 Yield criterion/Yield_criterion.html

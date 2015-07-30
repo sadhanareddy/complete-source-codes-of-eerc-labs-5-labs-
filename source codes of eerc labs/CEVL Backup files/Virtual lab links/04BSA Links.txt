@@ -1,0 +1,19 @@
+BSA-01 Rigid joint/arches.html
+
+BSA-02 Single span beams/Fixed_Beams.html
+
+BSA-03 Continuous beams/Continuous beams.html
+
+BSA-04 Columns/Columns.html
+
+BSA-05 Portal frames/portalframes.html
+
+BSA-06 Plates/Plates.html
+
+BSA-07 Arches/simpletruss.html
+
+BSA-08 Trusses/Trusses.html
+
+BSA-09 Retaining walls/Retaining walls.html
+
+BSA-10 Plastic hinge/Plastic hinge.html

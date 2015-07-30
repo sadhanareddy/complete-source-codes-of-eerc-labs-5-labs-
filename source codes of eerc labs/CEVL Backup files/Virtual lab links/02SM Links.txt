@@ -1,0 +1,20 @@
+10.2.45.90:411
+SM-01 Water Content/Water_Content.html
+
+SM-02 Unit Weight/Unit_Weight_Test.html
+
+SM-03 Specific Gravity/Specific_Gravity.html
+
+SM-04 Grain Size Distribution/Grain_Size_Distribution.html
+
+SM-05 Atterberg Limits/Atterberg.html
+
+SM-06 Permeability/Permeability_Test.html
+
+SM-07 Compaction test/Compaction.html
+
+SM-08 Consolidation Test/Consolidation_Test.html
+
+SM-09 Direct Shear Test/Direct_Shear_Test.html
+
+SM-10 Triaxial Test/Triaxial_Test.html

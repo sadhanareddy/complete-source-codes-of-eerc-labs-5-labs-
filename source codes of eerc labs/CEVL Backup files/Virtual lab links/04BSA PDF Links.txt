@@ -1,0 +1,52 @@
+01.
+<br>
+<a target="_blank" href="../Data files/BEHAVIOUR_OF_CONTINOUS_BEAMS.pdf">   <span> <b> <font color="BLUE"> More... </font> </b></span> </a>
+<br><br><br>
+
+02.
+<br>
+<a target="_blank" href="../Data files/DEFLECTION_OF_BEAMS.pdf">   <span> <b> <font color="BLUE"> More... </font> </b></span> </a>
+<br><br><br>
+
+03.
+<br>
+<a target="_blank" href="../Data files/PORTAL_FRAMES.pdf">   <span> <b> <font color="BLUE"> More... </font> </b></span> </a>
+<br><br><br>
+
+04.
+<br>
+<a target="_blank" href="../Data files/STABILITY_OF_COLUMNS.pdf">   <span> <b> <font color="BLUE"> More... </font> </b></span> </a>
+<br><br><br>
+
+05.
+<br>
+<a target="_blank" href="../Data files/RIGID_JOINT.pdf">   <span> <b> <font color="BLUE"> More... </font> </b></span> </a>
+<br><br><br>
+
+06.
+<br>
+<a target="_blank" href="../Data files/Plates.pdf">   <span> <b> <font color="BLUE"> More... </font> </b></span> </a>
+<br><br><br>
+
+07.
+<br>
+<a target="_blank" href="../Data files/Arches.pdf">   <span> <b> <font color="BLUE"> More... </font> </b></span> </a>
+<br><br><br>
+
+08.
+<br>
+<a target="_blank" href="../Data files/Trusses.pdf">   <span> <b> <font color="BLUE"> More... </font> </b></span> </a>
+<br><br><br> 
+
+
+09.
+<br>
+<a target="_blank" href="../Data files/Retaining_walls.pdf">   <span> <b> <font color="BLUE"> More... </font> </b></span> </a>
+<br><br><br>
+
+10.
+<br>
+<a target="_blank" href="../Data files/Plastic hinge.pdf">   <span> <b> <font color="BLUE"> More... </font> </b></span> </a>
+<br><br><br>
+
+

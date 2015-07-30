@@ -1,0 +1,47 @@
+Virtual Lab Project
+01. Strength of Materials
+	Tension test - over
+	Compression test - over
+	Shear test - No soft copy
+	Torsion test - over
+	Impact test - No soft copy
+	Creep test - No soft copy
+	Fatigue test - No soft copy
+	Compression test spring - No soft copy
+	Principal stresses - No soft copy
+	Yield criterion - No soft copy
+
+02. Soil Mechanics
+	Water Content
+	Unit Weight
+	Specific Gravity
+	Atterberg Limits
+	Permeability
+	Compaction test
+	Consolidation test
+	DirectShear test
+	Triaxial test
+
+03. Fluid Mechanics Virtual Laboratory
+	Bernoulli's Experiment
+	Venturi meter
+	Orifices
+	Mouthpieces
+	Weirs
+	Channels
+	Reynold's Experiment
+	Vortices
+	Jets
+	Turbines
+
+04. Basic Structural Analysis Virtual Laboratory
+	Rigid Joint
+	Single span beams
+	Continuous beams
+	Columns
+	Portal Frames
+	Plates
+	Arches
+	Trusses
+	Retaining walls
+	Plastic Hinge
